@@ -2,6 +2,7 @@ package git;
 
 public class Employee {
 	public static void main(String[] args) {
-		System.out.println("居然是包名没有用;结尾,简直了");
+		System.out.println("灞呯劧鏄寘鍚嶆病鏈夌敤;缁撳熬,绠�鐩翠簡");
+		System.out.println("111111111111111111");
 	}
 }
